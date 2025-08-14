@@ -1,17 +1,19 @@
 <h1 align="left">Hi 👋, I'm <a href="https://marcusdev.me" target="blank">
 Marcus Oliveira</a></h1>
-<h3 align="left">As a Full Stack Web Developer with a focus on Front-end development within the React ecosystem, I provide a comprehensive approach to delivering complete solutions.</h3>
+<h3 align="left">Driven by creativity and clean architecture,
+I design and engineer high-impact, scalable applications
+from pixel-perfect UIs to robust full-stack solutions.</h3>
 <br>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://innovagency.com" target="blank">Innovagency</a>
+- 🔭 I'm currently working in <a href="https://innovagency.com" target="blank">Innovagency</a>
 
-- 🌱 I’m currently Working on some secret stuff.
+- 🌱 I'm currently Working on some secret stuff.
 
-- 🤝 I’m available for Co-labs.
+- 🤝 I'm available for Co-labs.
 
 - 🌱 I am currently studying Systems Analysis and Development.
 
