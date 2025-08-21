@@ -16,6 +16,7 @@ from pixel-perfect UIs to robust full-stack solutions.</h3>
 - 🤝 I'm available for Co-labs.
 
 - 🌱 I am currently studying Systems Analysis and Development.
+- 🌱 I am currently studying Angular.js
 
 - 💬 Ask me about **Javascript, Typescript, React, Frontend, GSAP**
 
